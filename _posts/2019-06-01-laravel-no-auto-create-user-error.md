@@ -8,7 +8,7 @@ Since version 8.0.11, MySQL removed the `NO_AUTO_CREATE_USERS` mode. So, if you'
 your database driver. And is using strict mode. And also providing your own modes in `config/database.php`,
 you would get following error thrown on your screen.
 
-![Laravel: Variable 'sql_mode' can't be set to the value of 'NO_AUTO_CREATE_USER']({{ site.baseUrl }}/assets/images/no_auth_create_user-laravel-error.png)
+![Laravel: Variable 'sql_mode' can't be set to the value of 'NO_AUTO_CREATE_USER'](/blog/assets/images/no_auth_create_user-laravel-error.png)
 
 Prior to Laravel 5.5, if you don't provide yourself a customized sql modes on `config/database.php` and set the `strict_mode` to `true`,
 you would get similar error as above figure if you use MySQL 8.0.11.
