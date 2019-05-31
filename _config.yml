@@ -11,9 +11,19 @@ google_analytics: UA-92790353-4
 
 # Author
 author:
-  name:         Chester How
+  name:         Chay
   url:          https://chay22.github.io/blog
   email:        cahyadinugraha18@gmail.com
+
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
 
 # Permalinks
 paginate:       5
