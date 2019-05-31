@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Laravel with sql_mode NO_AUTO_CREATE_USER Error"
+title:  "Laravel NO_AUTO_CREATE_USER Error"
 author: "Chay"
 ---
 
