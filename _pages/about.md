@@ -1,3 +1,9 @@
+---
+layout: post
+title: "About"
+author: "Chay"
+permalink: /about/
+---
 
 My name is Cahyadi Nugraha. I'd like people to call me chay. Yeah, just like tea. Almost.
 
