@@ -1,3 +1,19 @@
-theme: jekyll-theme-midnight
-show_downloads: false
+remote-theme: chesterhow/tale
+
+# Site settings
+title:          blog
+description:    "My blog. Not yours."
+baseurl:        "/blog"
+url:            "https://chay22.github.io"
+
+# Google Analytics
 google_analytics: UA-92790353-4
+
+# Author
+author:
+  name:         Chester How
+  url:          https://chay22.github.io/blog
+  email:        cahyadinugraha18@gmail.com
+
+# Permalinks
+paginate:       5
