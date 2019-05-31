@@ -1,4 +1,7 @@
-## Blog
+---
+layout: home
+title: blog
+---
 
 My name is Cahyadi Nugraha. I'd like people to call me chay. Yeah, just like tea. Almost.
 
