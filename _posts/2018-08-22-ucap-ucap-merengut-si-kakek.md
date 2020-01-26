@@ -17,8 +17,9 @@ Obrolan yang tidak lagi terasa hangatnya, acap kali membuat saya terpaksa terkag
 "Inikah hal-hal yang saya harus pelajari dari pengalaman orang?", tanya saya di detik selanjutnya.
 
 Saya memang berniat untuk berkembang. Namun, jika di setiap kalimat yang terlontar dari mulut orang yang saya hormati sekalipun.
-Jika, terlalu banyak kata "saya" tersisip di sana. Muak lah saya.
-Memang ... rasa kecut ini mungkin muncul hanya dari masalah daya penyampaian yang tidak sesuai hati saya.
+Jika terlalu banyak kata "saya" tersisip di sana. Muak lah saya.
+
+Rasa kecut ini mungkin muncul hanya dari masalah daya penyampaian yang tidak sesuai hati saya.
 Atau hati saya yang kurang bisa menampung sekian macam jenis penyampaian ragamnya manusia.
 Saya memang harus terus belajar.
 
