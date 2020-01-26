@@ -4,7 +4,7 @@ title:  "Ketika Kandas Berwawancara"
 author: "Chay"
 ---
 
-Seketika teringat 3 bulan yang lalu. Saat kali ketiga lamaran pekerjaan ditolak (dari total tiga kali tolakan saat ini).
+Seketika teringat tiga bulan yang lalu. Saat kali ketiga lamaran pekerjaan ditolak (dari total tiga kali tolakan seumur hidup saat ini).
 Di sesi wawancara, pemilik perusahaan cenderung berorientasi terhadap hasil.
 
 "_Apa yang udah pernah lu kerjain?_", ujar salah satu dari tiga pewawancara. Pemilik perusahaan.
