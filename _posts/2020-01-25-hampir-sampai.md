@@ -2,7 +2,10 @@
 layout: post
 title:  Hampir Sampai
 author: "Chay"
+featureImage: "/blog/assets/images/no-more-my-happiest-day-ever.jpg"
 ---
+
+![](/blog/assets/images/no-more-my-happiest-day-ever.jpg)
 
 Pernah waktu itu saya buat twit, "_Today is my happiest day ever_". Beserta hari ini, saya sanggah dengan twit lain, "_No more._". Tercatat, _sih_, dua kali. Tapi seingat saya seharusnya hari ini yang ketiga kalinya. Di poin ini, sesungguhnya saya semakin tersadar bahwa saya benar-benar menjadi manusia yang terus-menerus berkembang. Dengan maksud lain, saya sangat bersyukur.
 
