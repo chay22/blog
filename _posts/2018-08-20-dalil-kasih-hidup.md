@@ -2,7 +2,7 @@
 layout: post
 title:  Dalil Kasih Hidup
 author: "Chay"
-tags: [thought]
+tags: thought
 ---
 
 Begitu terbebas dari penggunaan insting dengan bebasnya untuk beberapa tahun.
