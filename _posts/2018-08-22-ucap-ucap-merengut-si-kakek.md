@@ -2,6 +2,7 @@
 layout: post
 title:  Ucap-Ucap Merengut Si Kakek
 author: "Chay"
+tags:   thought
 ---
 
 Detik demi detik berlalu di kala saya merampungkan setiap kejenuhan yang menurut saya tak kunjung usai sore itu.
