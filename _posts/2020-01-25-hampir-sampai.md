@@ -2,6 +2,7 @@
 layout: post
 title:  Hampir Sampai
 author: "Chay"
+tags:   thought
 featureImage: "/blog/assets/images/no-more-my-happiest-day-ever.jpg"
 ---
 
