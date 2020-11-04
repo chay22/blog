@@ -2,6 +2,7 @@
 layout: post
 title:  Strategi Menyenjangkan
 author: "Chay"
+tags:   thought
 ---
 
 Salah satu cara agar terlihat keren adalah dengan menunjukkan kecocokan alias kemistri. Pengamat, penonton, pendengar dan yang lain umumnya menilai secara subjektif atau dengan pikirannya sendiri.
