@@ -2,6 +2,7 @@
 layout: post
 title:  "Ketika Kandas Berwawancara"
 author: "Chay"
+tags:   thought
 ---
 
 Seketika teringat tiga bulan yang lalu. Saat kali ketiga lamaran pekerjaan ditolak (dari total tiga kali tolakan seumur hidup saat ini).
