@@ -25,5 +25,11 @@ sass:
   sass_dir:     _sass
   style:        compressed
 
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+ 
 # Permalinks
 paginate:       5
