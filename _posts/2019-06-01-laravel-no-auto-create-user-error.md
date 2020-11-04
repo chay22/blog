@@ -2,6 +2,7 @@
 layout: post
 title:  "Laravel NO_AUTO_CREATE_USER Error"
 author: "Chay"
+tags:   programming
 ---
 
 Since version 8.0.11, MySQL removed the `NO_AUTO_CREATE_USERS` mode. So, if you're working with Laravel with MySQL as
