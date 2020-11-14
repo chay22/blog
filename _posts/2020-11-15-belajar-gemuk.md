@@ -7,7 +7,7 @@ tags: thought
 
 Mengapa orang yang telah menikah, misal sedari dulunya adalah orang yang kurus, bisa menjadi berisi atau gemuk?
 
-Mungkin jawabannya adalah karena pola hidupnya yang semakin menjadi teratur. Contoh, saat seorang bujangan yang sering sekali begadang.
+Mungkin jawabannya adalah karena pola hidupnya yang menjadi semakin teratur. Contoh, saat seorang bujangan yang sering sekali begadang.
 Terlebih, untuk yang telah terbiasa pada jam-jam tersebut untuk makan. Terutama makan makanan yang berat.
 Tubuhnya akan secara otomatis membakar cadangan makanan yang ada, untuk dijadikan energi.
 
